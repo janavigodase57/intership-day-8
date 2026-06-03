@@ -25,12 +25,6 @@ const greet2=function(){
 }
 greet2();
 
-
-
-
-
-
-
 //callback function
 function greet3(name, callback){
     console.log("Hello, " + name + "!");
