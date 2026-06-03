@@ -27,13 +27,6 @@ greet2();
 
 
 
-function anonymousGreet=function(name,anotherFunction){
-    console.log("Hello, " + name + "!");
-    anotherFunction();
-}
-anonymousGreet("janavi", function(){
-    console.log("This is an anonymous callback function.");
-});
 
 
 
