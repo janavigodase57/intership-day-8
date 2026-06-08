@@ -11,7 +11,7 @@ const greet=function(){
     console.log("Hello");
 }   
 greet();
-
+ 
 // Arrow Function
 const add=(a,b)=>{
     return a+b;
